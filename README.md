@@ -1,7 +1,7 @@
 ## <h1> Eaii, Eu sou o Murilo Fekete
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MurilOFekete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MurilOFekete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" height="250em" width="280em" alt="Murilin" src="https://cdn.discordapp.com/attachments/888092382862647297/888092447266197544/Webp.net-gifmaker.gif">
 
 </div>
