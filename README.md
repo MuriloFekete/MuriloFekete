@@ -1,10 +1,5 @@
 ## <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Eaii, Eu sou o Murilo Fekete ⚡ </h1>
- <div>
-  <a href="https://github.com/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MurilOFekete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" width="250em" alt="Murilin" src="https://cdn.discordapp.com/attachments/888092382862647297/888092447266197544/Webp.net-gifmaker.gif">
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
