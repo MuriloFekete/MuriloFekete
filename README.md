@@ -14,7 +14,7 @@
     </a>
     
     
-    <a href="https://www.linkedin.com/in/murilo-fekete-9566a7264/" target="_blank" style="margin-left: 20px;">
+  <a href="https://www.linkedin.com/in/murilo-fekete-9566a7264/" target="_blank" style="margin-left: 20px;">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
