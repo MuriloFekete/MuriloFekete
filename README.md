@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/mm_fekete/?theme=dark" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  &
+  
   
   <a href="https://www.linkedin.com/in/murilo-fekete-9566a7264/" target="_blank" style="margin-left: 20px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
