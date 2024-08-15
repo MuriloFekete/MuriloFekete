@@ -1,4 +1,4 @@
-## Olá eu sou o Murilo Fekete, Desenvolvedor Front-End, Seja Bem Vindo!
+## Olá eu sou o Murilo Fekete, Seja Bem Vindo!
 ![Murilo](Banner.png)
   
   <div style="display: inline_block"><br>
