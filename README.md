@@ -1,20 +1,21 @@
 ## Olá eu sou o Murilo Fekete, Desenvolvedor Front-End, Seja Bem Vindo!
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div style="background-image: url('https://link-para-sua-imagem-de-fundo.com/imagem.jpg'); padding: 20px; text-align: center;">
   
- <br>
-<div style="display: flex; align-items: center;">
-  <a href="https://www.instagram.com/mm_fekete/?theme=dark" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  
-  <a href="https://www.linkedin.com/in/murilo-fekete-9566a7264/" target="_blank" style="margin-left: 20px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+    
+   <br>
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.instagram.com/mm_fekete/?theme=dark" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    
+    
+    <a href="https://www.linkedin.com/in/murilo-fekete-9566a7264/" target="_blank" style="margin-left: 20px;">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
 </div>
